@@ -1,4 +1,14 @@
+# jekyll default ignores
+
 _site
 .sass-cache
 .jekyll-metadata
+
+# my general ignores
 *.zip
+
+# my specific ignores
+
+# my general unignores
+
+# my specific unignores
