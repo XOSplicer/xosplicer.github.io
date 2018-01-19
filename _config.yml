@@ -30,6 +30,7 @@ github_username:  xosplicer
 markdown: kramdown
 theme: minima
 # theme: jekyll-theme-lanyon
+# theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
